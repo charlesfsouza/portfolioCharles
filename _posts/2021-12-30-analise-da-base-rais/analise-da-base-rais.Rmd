@@ -1,0 +1,22 @@
+---
+title: "Analise da Base RAIS"
+description: |
+  Essa análise teve como objetivo analisar os salários na base da RAIS. Esse projeto foi feito na Semana Data Sciente na Prática da Curso-R.
+author:
+  - name: Charles Ferreira de Souza
+   
+date: 2021-12-30
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Esse é o meu primeiro projeto no portfólio.
+
+
+

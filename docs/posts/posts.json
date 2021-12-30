@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-30T12:06:06-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-30-analise-da-base-rais/",
+    "title": "Analise da Base RAIS",
+    "description": "Essa análise teve como objetivo analisar os salários na base da RAIS. Esse projeto foi feito na Semana Data Sciente na Prática da Curso-R.",
+    "author": [
+      {
+        "name": "Charles Ferreira de Souza",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-30",
+    "categories": [],
+    "contents": "\r\nEsse é o meu primeiro projeto no portfólio.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-30T15:22:06-03:00",
+    "input_file": "analise-da-base-rais.knit.md"
   }
 ]
